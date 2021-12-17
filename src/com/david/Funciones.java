@@ -24,10 +24,11 @@ public class Funciones {
 
     }
 
-    public static String mostrarPista(Tablero tablero) {
+    public static String mostrarPista(String cifrapista) {
 
 
 
-        return null;
+        return cifrapista;
     }
+
 }
